@@ -93,6 +93,6 @@ Although the starter code provided was cloned, there is still more work to be do
     GitHub Repository: https://github.com/lkalicki/book-search-engine
     </li>
     <li>
-    Deployed Application: https://git.heroku.com/lkalicki-book-search-engine.git
+    Deployed Application:  https://lkalicki-book-search-engine.herokuapp.com/
     </li>
 </ul>
