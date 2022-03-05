@@ -16,8 +16,10 @@
     "concurrently": "^5.3.0"
   },
   "dependencies": {
+    "@apollo/client": "^3.5.10",
     "ansi-regex": "^4.1.0",
     "ansi-styles": "^3.2.1",
+    "apollo-client": "^2.6.10",
     "bootstrap": "^4.6.0",
     "camelcase": "^5.3.1",
     "chalk": "^2.4.2",
@@ -32,6 +34,7 @@
     "find-up": "^3.0.0",
     "function-bind": "^1.1.1",
     "get-caller-file": "^2.0.5",
+    "graphql": "^15.8.0",
     "has": "^1.0.3",
     "has-flag": "^3.0.0",
     "hosted-git-info": "^2.8.9",
